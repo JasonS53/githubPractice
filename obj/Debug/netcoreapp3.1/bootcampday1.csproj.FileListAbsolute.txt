@@ -1,0 +1,13 @@
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\bin\Debug\netcoreapp3.1\bootcampday1.exe
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\bin\Debug\netcoreapp3.1\bootcampday1.deps.json
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\bin\Debug\netcoreapp3.1\bootcampday1.runtimeconfig.json
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\bin\Debug\netcoreapp3.1\bootcampday1.runtimeconfig.dev.json
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\bin\Debug\netcoreapp3.1\bootcampday1.dll
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\bin\Debug\netcoreapp3.1\bootcampday1.pdb
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\obj\Debug\netcoreapp3.1\bootcampday1.csprojAssemblyReference.cache
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\obj\Debug\netcoreapp3.1\bootcampday1.AssemblyInfoInputs.cache
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\obj\Debug\netcoreapp3.1\bootcampday1.AssemblyInfo.cs
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\obj\Debug\netcoreapp3.1\bootcampday1.csproj.CoreCompileInputs.cache
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\obj\Debug\netcoreapp3.1\bootcampday1.dll
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\obj\Debug\netcoreapp3.1\bootcampday1.pdb
+C:\Users\jms_s\source\repos\bootcampday1\bootcampday1\obj\Debug\netcoreapp3.1\bootcampday1.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "bootcampday1/1.0.0": {
+        "runtime": {
+          "bootcampday1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bootcampday1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
