@@ -6,6 +6,7 @@ namespace bootcampday1
     {
         static void Main(string[] args)
         {
+            //Gets user info and displays it
             Console.WriteLine("What is your name?");
             string name = Console.ReadLine();
             Console.WriteLine("What is your age?");
